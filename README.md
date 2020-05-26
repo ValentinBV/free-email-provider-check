@@ -20,7 +20,7 @@ or use an array
     $arraySource = new valentinbv\Email\ArraySource(['yahoo.com']);
     $arraySource->find('yahoo.com');
     
-For intstall from packagist
+For install from packagist
 
 **composer require valentinbv/free-email-provider-check**
 
