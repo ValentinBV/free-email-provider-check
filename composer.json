@@ -17,8 +17,6 @@
             "email": "bvv1988@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "version": "v0.0.1",
     "require": {
         "php": ">=7.1"
     },
