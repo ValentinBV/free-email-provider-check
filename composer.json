@@ -1,0 +1,28 @@
+{
+    "name": "valentinbv/free-email-provider-check",
+    "type": "library",
+    "description": "free email provider check",
+    "keywords": [
+        "free email provider domains", 
+        "email",
+        "free email", 
+        "email services", 
+        "free email services", 
+        "email check", 
+        "free email servers"
+    ],
+    "authors": [
+        {
+            "name": "Valentin Bondarenko",
+            "email": "bvv1988@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "valentinbv\\": "src/"
+        }
+    }
+}
