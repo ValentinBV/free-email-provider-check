@@ -1,4 +1,5 @@
 
+
 # free-email-provider-check
 This small library is designed to check emails for membership in free email services. It may be useful for verifying that an email belongs to a corporate domain.
 
@@ -19,7 +20,11 @@ or use an array
     $arraySource = new valentinbv\Email\ArraySource(['yahoo.com']);
     $arraySource->find('yahoo.com');
     
-For install add to composer.json:
+For intstall from packagist
+
+**composer require valentinbv/free-email-provider-check**
+
+For install from git add to composer.json:
 
     {
         "repositories": [
